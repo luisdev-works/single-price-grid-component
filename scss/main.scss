@@ -30,8 +30,8 @@ body {
   }
   &__content {
     margin: 18px 0 14px 0;
-    font-size: 1.7rem;
-    line-height: 25px;
+    font-size: 1.4rem;
+    line-height: 30px;
     color: var(--neutral-grayish-blue);
   }
 }
@@ -114,8 +114,8 @@ body {
     &__subtitle {
       font-size: 1.8rem;
     }
-    &__paragraph {
-      font-size: 1.6rem;
+    &__content {
+      font-size: 1.7rem;
       margin-bottom: 0px;
     }
   }

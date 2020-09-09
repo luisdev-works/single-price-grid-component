@@ -64,8 +64,8 @@ body {
 
 .head__content {
   margin: 18px 0 14px 0;
-  font-size: 1.7rem;
-  line-height: 25px;
+  font-size: 1.4rem;
+  line-height: 30px;
   color: var(--neutral-grayish-blue);
 }
 
@@ -169,8 +169,8 @@ body {
   .head__subtitle {
     font-size: 1.8rem;
   }
-  .head__paragraph {
-    font-size: 1.6rem;
+  .head__content {
+    font-size: 1.7rem;
     margin-bottom: 0px;
   }
   .card, .card--one, .card--two {
